@@ -33,7 +33,7 @@
     h4 {
       background-color: black;
       color: white;
-      width: 300px;
+      width: 220px;
       padding: 4px;
     }
 
@@ -78,9 +78,9 @@
       margin-left: 40px;
     }
 
-    .footer {
+    footer {
       text-align: center;
       background-color: black;
       color: white;
-      height: 10px;
+      height: auto;
     }
